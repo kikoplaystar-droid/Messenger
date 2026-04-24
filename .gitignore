@@ -1,0 +1,5 @@
+/.env
+/messenger_project.db
+/task
+/__pycache__
+*/__pycache__/
